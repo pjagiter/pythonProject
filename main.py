@@ -45,4 +45,4 @@ print(sys.getrefcount(a))
 
 c=5252332
 print(sys.getrefcount(c))
-#zmiana
+
